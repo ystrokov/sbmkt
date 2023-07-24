@@ -1,0 +1,2 @@
+winky=1.15.3
+jsonschema=4.18.5
